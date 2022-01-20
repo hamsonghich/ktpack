@@ -1,0 +1,9 @@
+- angular UI: ng add @angular/material
+- bootstrap : npm i bootstrap@4.5.0
+- ng-bootstrap: npm i @ng-bootstrap/ng-bootstrap@9
+- phan trang : 	npm install ngx-pagination --save
+- carousel: npm i ngx-owl-carousel-o@5.1.0
+- emailjs: 	npm install emailjs-com --save
+- editor: 	npm i @kolkov/angular-editor
+- install firebase : npm i firebase@8
+- install angularfire: npm install firebase @angular/fire@6.1
